@@ -8,7 +8,7 @@ http://hyf-react-test.herokuapp.com/
 
 1. Make a `fork` of this repository
 2. `Clone` the fork to your local machine
-3. Navigate to the folder `class25-react-test` on your machine and execute `npm install`
+3. Navigate to the folder `class10-react-test` on your machine and execute `npm install`
 4. Get started with building!
 
 ### The requirements
