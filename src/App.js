@@ -1,14 +1,16 @@
 import React from "react";
 import "./App.css";
- 
-import fileFetch from "./fileFetch"
-// import cardShow from "./cardShow";
+import GetUser from "./GetUser"
+import ShowUser from "./components/ShowUser";
 
 function App() {
-  return <div>
-    {/* <cardShow/> */}
-    <fileFetch/>
-    Good luck dear students!</div>;
+  return (<div>
+    {/* <h6>User Profile all</h6> */}
+    <GetUser/>
+    <ShowUser/>
+      </div>
+  )
 }
 
 export default App;
+  
